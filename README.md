@@ -1,0 +1,5 @@
+[package.json](https://github.com/user-attachments/files/26912824/package.json)
+[package-lock.json](https://github.com/user-attachments/files/26912825/package-lock.json)[me.html](https://github.com/user-attachments/files/26912829/me.html)
+[walid.html](https://github.com/user-attachments/files/26912828/walid.html)
+[tsconfig.json](https://github.com/user-attachments/files/26912827/tsconfig.json)
+[qodana.yaml](https://github.com/user-attachments/files/26912826/qodana.yaml)
